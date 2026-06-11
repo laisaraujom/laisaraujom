@@ -5,7 +5,7 @@
 
 
 
-I am currently on my first year of Computer Science at CESAR School and I am fully on STEM, having graduated in Civil Engineering and Mathematics as well. I look forward to being a full stack developer in the near future.
+I am currently on my first year of Computer Science at CESAR School and I am fully on STEM, having graduated in Civil Engineering and Mathematics as well. I look forward to being a Full-Stack developer in the near future.
 
 ---
 

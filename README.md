@@ -23,7 +23,7 @@ I am currently on my first year of Computer Science at CESAR School and I am ful
 | Name                  | Short description                                        |
 |:---------------------:|:--------------------------------------------------------:|
 | LIBRE-SE              | Portuguese - LIBRAS (Brazilian Sign Language) translator |
-| Projeto HYROX         | HYROX planner to update your gym  and HYROX              |
+| Projeto HYROX         | HYROX planner to update your gym  and HYROX workouts     |
 
 
 

@@ -9,7 +9,7 @@ I am currently on my first year of Computer Science at CESAR School and I am ful
 
 ---
 
-## 🛠️ Some of the technologies and tools I've been working with are:
+## 🛠️ Some of the technologies and tools I've been working with:
 
 | Categories            |   Tools I've used                     |
 |:---------------------:|:-------------------------------------:|

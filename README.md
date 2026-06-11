@@ -18,6 +18,16 @@ I am currently on my first year of Computer Science at CESAR School and I am ful
 | Other Tools           | Basic Game Development (Bitsy Engine) |
 
 
+## 📂 Some of the projects I've done in the past:
+
+| Name                  | Short description                                        |
+|:---------------------:|:--------------------------------------------------------:|
+| LIBRE-SE              | Portuguese - LIBRAS (Brazilian Sign Language) translator |
+| Projeto HYROX         | HYROX planner to update your gym  and HYROX              |
+
+
+
+
 ---
 
 ## 🚀 Current Focus

@@ -30,5 +30,5 @@ I am currently on my first year of Computer Science at CESAR School and I am ful
 
 If you want to chat about technology, development, or even logic and math, feel free to reach out!
 
-* **My Repositories:** [github.com/laisaraujom](https://github.com/laisaraujom)
+* **My e-mail:** [mouralais3@gmail.com]
 * **LinkedIn:** [Laís Araújo Moura](https://linkedin.com/in/lais-moura)
